@@ -6,13 +6,13 @@ const quotes = [{
     quote: '“All our dreams can come true, if we have the courage to pursue them.” ',
     person: '—Walt Disney',
 
-},
-{
+    },
+    {
     quote: '“The secret of getting ahead is getting started.” ',
     person: '—Mark Twain',
 
-},
-{
+    },
+    {
     quote: '“Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.”  ',
     person: '—Mary Kay Ash',
 
@@ -29,7 +29,25 @@ const quotes = [{
     }, {
         quote: '“Hustle in silence and let your success make the noise.”',
         person:'-unknown',
-    }
+    },
+    {
+    quote: '“It is during our darkest moments that we must focus to see the light',
+    person: '-Aristotle',
+
+    }, {
+    quote: 'Be yourself; everyone else is already taken. ',
+        person:'-Oscar Wilde'
+    },
+    {
+        quote: '"Do one thing every day that scares you." ',
+        person:'-Babe Ruth',
+    }, {
+        quote: ' "The only impossible journey is the one you never begin."',
+        person:'-Tony Robbins',
+    }, {
+        quote: '"Only a life lived for others is a life worthwhile."',
+        person:'-Albert Einstein',
+    },
 
 
 
